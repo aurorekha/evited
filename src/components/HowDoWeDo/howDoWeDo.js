@@ -1,5 +1,4 @@
 import React from 'react';
-import ScrollAnimation from 'react-animate-on-scroll';
 import AOS from 'aos';
 
 import 'aos/dist/aos.css';
@@ -33,8 +32,13 @@ function HowDoWeDo() {
         you want to invite.</p>
       </div>
       <div data-aos="flip-down" className="howDivs">
-        <h2>Celebrate</h2>
-        <p>Oh come on! Does this really need any explaining?</p>
+        <h2>Recheck</h2>
+        <p>You check if everything is in place as per agreements</p>
+      </div>
+      <div data-aos="flip-down" className="howDivs">
+        <h2>Payment</h2>
+        <p>It's payday for us once we have everything in place and tick the final
+        box.</p>
       </div>
     </div>
   )

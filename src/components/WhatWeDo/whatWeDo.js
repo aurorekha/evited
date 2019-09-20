@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './whatWeDo.scss';
 
 class WhatWeDo extends React.Component{
