@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "arapey";
+  src: url("../../fonts/arapey/arapey-italic-webfont.woff") format("woff"),
+}
+
+.howDoWeDo {
+  font-family: "arapey";
+  color: white;
+  background: #FEB5AE;
+  height: 800px;
+  text-align: center;
+  h1 {
+    padding-top: 2rem;
+  }
+}
+
+.howDivs {
+  width: 40%;
+  height: 300px;
+  float: left;
+}
