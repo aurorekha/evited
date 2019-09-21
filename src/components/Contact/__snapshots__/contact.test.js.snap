@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Contact section correctly 1`] = `
+<div
+  className="contactContainer"
+>
+  <h1>
+    Get in touch to discuss your needs
+  </h1>
+  <div>
+    <h2>
+      Email: macoesltd@gmail.com
+    </h2>
+    <h2>
+      Ph: 07550267405
+    </h2>
+  </div>
+</div>
+`;

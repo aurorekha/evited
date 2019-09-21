@@ -1,0 +1,153 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders HowDoWeDo section correctly 1`] = `
+<div
+  className="howDoWeDo"
+>
+  <h1>
+    How does this work?
+  </h1>
+  <div
+    className="howDivs"
+    data-aos="filp-down"
+  >
+    <h2>
+      Plan
+    </h2>
+    <p>
+      We sit you take details of what you want and when you want
+    </p>
+  </div>
+  <div
+    className="howDivs"
+    data-aos="filp-down"
+  >
+    <h2>
+      Design
+    </h2>
+    <p>
+      We then sit with a deisgner and come back with super neat design which we think will go with what you want and with whatyou need. And agree on a deisgn with little tweaks if needed
+    </p>
+  </div>
+  <div
+    className="howDivs"
+    data-aos="flip-down"
+  >
+    <h2>
+      Develop
+    </h2>
+    <p>
+      We develop and bring the designs to life and set you up with a mailbox so that you can control your RSVPs.
+    </p>
+  </div>
+  <div
+    className="howDivs"
+    data-aos="flip-down"
+  >
+    <h2>
+      Deploy
+    </h2>
+    <p>
+      We deploy to a domain that will be easy to share for you to the people you want to invite.
+    </p>
+  </div>
+  <div
+    className="howDivs"
+    data-aos="flip-down"
+  >
+    <h2>
+      Recheck
+    </h2>
+    <p>
+      You check if everything is in place as per agreements
+    </p>
+  </div>
+  <div
+    className="howDivs"
+    data-aos="flip-down"
+  >
+    <h2>
+      Payment
+    </h2>
+    <p>
+      It's payday for us once we have everything in place and tick the final box.
+    </p>
+  </div>
+</div>
+`;
+
+exports[`renders correctly 1`] = `
+<div
+  className="howDoWeDo"
+>
+  <h1>
+    How does this work?
+  </h1>
+  <div
+    className="howDivs"
+    data-aos="filp-down"
+  >
+    <h2>
+      Plan
+    </h2>
+    <p>
+      We sit you take details of what you want and when you want
+    </p>
+  </div>
+  <div
+    className="howDivs"
+    data-aos="filp-down"
+  >
+    <h2>
+      Design
+    </h2>
+    <p>
+      We then sit with a deisgner and come back with super neat design which we think will go with what you want and with whatyou need. And agree on a deisgn with little tweaks if needed
+    </p>
+  </div>
+  <div
+    className="howDivs"
+    data-aos="flip-down"
+  >
+    <h2>
+      Develop
+    </h2>
+    <p>
+      We develop and bring the designs to life and set you up with a mailbox so that you can control your RSVPs.
+    </p>
+  </div>
+  <div
+    className="howDivs"
+    data-aos="flip-down"
+  >
+    <h2>
+      Deploy
+    </h2>
+    <p>
+      We deploy to a domain that will be easy to share for you to the people you want to invite.
+    </p>
+  </div>
+  <div
+    className="howDivs"
+    data-aos="flip-down"
+  >
+    <h2>
+      Recheck
+    </h2>
+    <p>
+      You check if everything is in place as per agreements
+    </p>
+  </div>
+  <div
+    className="howDivs"
+    data-aos="flip-down"
+  >
+    <h2>
+      Payment
+    </h2>
+    <p>
+      It's payday for us once we have everything in place and tick the final box.
+    </p>
+  </div>
+</div>
+`;

@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders TopBanner section correctly 1`] = `
+<div
+  className="topBanner"
+>
+  <h1>
+    You are (E)Vited!
+  </h1>
+</div>
+`;
+
+exports[`renders correctly 1`] = `
+<div
+  className="topBanner"
+>
+  <h1>
+    You are (E)Vited!
+  </h1>
+</div>
+`;
